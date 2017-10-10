@@ -1,3 +1,0 @@
-<link href='http://fonts.font.im/css?family=PT+Sans:400italic' rel='stylesheet' type='text/css'>
-
-font-family: 'PT Sans', sans-serif;
